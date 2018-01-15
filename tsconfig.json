@@ -1,0 +1,10 @@
+{
+    "files": [
+    	"node_modules/phaser-ce/typescript/phaser.d.ts",
+        "src/ts/Main.ts"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es2015"
+    }
+}
